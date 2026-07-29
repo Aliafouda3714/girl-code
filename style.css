@@ -49,7 +49,7 @@ body {
 header.primary {
   background-color: oklch(58.113% 0.08463 174.297);
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   padding: 30px;
   text-shadow: 2px 2px #000000;
   background-color: #ffffff;
