@@ -19,7 +19,7 @@
 .slick-next .slick-next-icon,
 .slick-dots li button .slick-dot-icon,
 .slick-dots li.slick-active button .slick-dot-icon {
-  color: blue;
+  color: rgb(70, 133, 129);
 }
 
 /* Customize Previous/Next/Dots/Autoplay - Active State */
@@ -31,7 +31,7 @@
 .slick-dots li button:focus .slick-dot-icon:before,
 .slick-dots li.slick-active button:focus .slick-dot-icon,
 .slick-autoplay-toggle-button:focus {
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 /*Responsive Images*/
@@ -47,12 +47,14 @@ body {
 }
 
 header.primary {
-  background-color:oklch(43.732% 0.07335 251.714 / 0.636);
+  background-color:oklch(28.703% 0.04889 250.923 / 0.771);
   text-align: center;
-  color: #000000;
+  color: #f8f4f4;
   padding: 30px;
   text-shadow: 2px 2px #020202;
   background-color:#172635(25.31% -0.14 -24.55) ;
+  background-image: url(img/header...jpg); 
+  background-position: center bottom;
   background-attachment: fixed;
   background-size: cover;
   
