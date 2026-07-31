@@ -145,10 +145,10 @@ article.post p {
 }
 
 aside {
-  background-color: #172635;
+  /* background-color: #172635; */
   color: #ffffff;
   padding: 40px;
-  background-image: url('/img/header...jpg');
+  background-image: url('/img/header-aside-bg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
