@@ -47,13 +47,12 @@ body {
 }
 
 header.primary {
-  background-color:oklch(28.703% 0.04889 250.923 / 0.771);
   text-align: center;
   color: #f8f4f4;
   padding: 30px;
   text-shadow: 2px 2px #020202;
   background-color:#172635(25.31% -0.14 -24.55) ;
-  background-image: url(img/header...jpg); 
+  background-image: url(img/header-aside-bg.jpg); 
   background-position: center bottom;
   background-attachment: fixed;
   background-size: cover;
